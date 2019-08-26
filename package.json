@@ -1,0 +1,19 @@
+{
+  "name": "community-control-tools-back",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dsteem": "^0.11.2",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1",
+    "node-json-db": "^1.0.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "steem": "^0.7.7"
+  }
+}
